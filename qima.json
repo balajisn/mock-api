@@ -10,6 +10,11 @@
 		"reportNo": "4190-Robert-test-item-77-,1212-Report",
 		"reportIssueDate": "2026-02-11"
 	},
+		"attachments": [
+			{
+				"fileName": "https://www.shutterstock.com/image-photo/woman-pipette-scientist-medical-research-260nw-2507089869.jpg"
+			}
+		],
 	"generalInformation": {
 		"clientId": "Edward",
 		"clientName": "Nhat Property"
