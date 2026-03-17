@@ -10,30 +10,6 @@
 		"reportNo": "4190-Robert-test-item-77-,1212-Report",
 		"reportIssueDate": "2026-02-11"
 	},
-	"attachments": [
-		{
-			"fileName": "https://www.shutterstock.com/image-photo/woman-pipette-scientist-medical-research-260nw-2507089869.jpg"
-		},
-		{
-			"fileName": "https://www.shutterstock.com/image-vector/scientist-working-microscope-test-tubes-600w-2659059057.jpg"
-		}
-	],
-	"generalInformation": {
-		"clientId": "Edward",
-		"clientName": "Nhat Property"
-	}
-},
-	{
-	"orderId": "723d8e55-f10f-4950-93c5-eeccc6721a78",
-	"reportIssueDate": "2026-02-11",
-	"overallResult": "pass",
-	"status": "PENDING",
-	"submitter": "Balaji",
-	"account": "Balaji-QIMA",
-	"finalReport": {
-		"reportNo": "4190-Robert-test-item-77-,1212-Report",
-		"reportIssueDate": "2026-02-11"
-	},
 	"generalInformation": {
 		"clientId": "Edward",
 		"clientName": "Nhat Property"
