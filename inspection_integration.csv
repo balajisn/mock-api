@@ -1,0 +1,2 @@
+receiverCustomId,factoryCustomId,inspectionTypeCode,workflowUuid,bookingTemplateUuid,internalIntegrationId,inspectedDate,opoNumber,itemId,defect,style,color,size,productLineId,productCategoryId,inspectedQuantity,inspector,defectComment,defectSection,occurrence,productionLine,shiftNumber,result
+receiver-1,factory-1,dupro,workflow-1,booking-1,1,2024-01-10,PO-1,ITEM-1,Defect A,Style A,Red,S,Line A,Category A,10,inspector@example.com,,packaging,1,1,Pass
